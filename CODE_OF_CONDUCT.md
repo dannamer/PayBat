@@ -1,128 +1,49 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct  
 
-## Our Pledge
+## Наше Обещание  
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+Мы, как участники, контрибьюторы и лидеры проекта PayBat Bank, обязуемся сделать участие в нашем сообществе свободным от домогательств для всех, независимо от возраста, размера кошелька, уровня финансовой грамотности или степени доверчивости.  
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+Мы стремимся создать дружелюбную (или не очень) атмосферу, где каждый может чувствовать себя комфортно, даже если его деньги уже давно исчезли.  
 
-## Our Standards
+## Наши Стандарты  
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Примеры поведения, которое способствует созданию позитивной среды:  
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+- **Использование сарказма.** Мы ценим остроумие, особенно если оно направлено на нас самих.  
+- **Демонстрация безразличия.** Нам похуй, но мы делаем вид, что вам не похуй.  
+- **Финансовый мазохизм.** Если вы готовы вкладывать деньги, не ожидая их возврата, вы наш человек.  
 
-Examples of unacceptable behavior include:
+Примеры неприемлемого поведения:  
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- **Попытки вернуть деньги.** Это просто неуважение к нашему бизнесу.  
+- **Слишком много вопросов.** Мы не любим любопытных.  
+- **Серьёзность.** Мы здесь ради лулзов, а не для того, чтобы решать ваши проблемы.  
 
-## Enforcement Responsibilities
+## Наши Обязанности  
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Лидеры проекта несут ответственность за разъяснение стандартов поведения и будут принимать соответствующие и справедливые меры в ответ на любое поведение, которое они сочтут неприемлемым.  
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Лидеры проекта имеют право и ответственность удалять, редактировать или отклонять комментарии, коммиты, код, правки вики, вопросы и другие материалы, которые не соответствуют настоящему Кодексу поведения.  
 
-## Scope
+## Сфера Действия  
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Этот Кодекс поведения применяется во всех общественных местах проекта, а также в частных случаях, когда человек представляет проект или его сообщество.  
 
-## Enforcement
+## Исполнение  
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-@dannamer.
-All complaints will be reviewed and investigated promptly and fairly.
+Если вы стали свидетелем или жертвой неприемлемого поведения, или у вас есть другие опасения, пожалуйста, сообщите об этом лидерам проекта по адресу: **conduct@paybat.bank**.  
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Все жалобы будут рассмотрены и расследованы, и в результате будет принято решение, соответствующее обстоятельствам. Лидеры проекта обязаны сохранять конфиденциальность в отношении инцидента и личности заявителя.  
 
-## Enforcement Guidelines
+## Атрибуция  
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Этот Кодекс поведения адаптирован из [Contributor Covenant][homepage], версия 2.0, доступной по адресу https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.  
 
-### 1. Correction
+[homepage]: https://www.contributor-covenant.org  
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+---
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**PayBat Bank** — мы не просто банк, мы ваш путь к финансовому беспределу.  
 
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+© 2023 PayBat Bank. Все права защищены. Или нет. Нам поебать.
