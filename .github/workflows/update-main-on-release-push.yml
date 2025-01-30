@@ -6,7 +6,8 @@ on:
 jobs:
   update-main:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -33,12 +34,20 @@ jobs:
               target_folder="services"
               folder_name=$(echo $branch | sed 's/-release$//')
             fi
+            echo "Processing branch: $branch, target folder: $target_folder, folder name: $folder_name"
             mkdir -p $target_folder
             rm -rf $target_folder/$folder_name
             git checkout $branch -- .
             mkdir -p $target_folder/$folder_name
-            mv * $target_folder/$folder_name/ || true
+            for item in *; do
+              if [[ $item != $target_folder ]]; then
+                echo "Moving $item to $target_folder/$folder_name/"
+                mv "$item" "$target_folder/$folder_name/"
+              fi
+            done
+            rm -rf $target_folder/$folder_name/.github || true
           done
+          
       - name: Commit changes to main
         run: |
           git add .
