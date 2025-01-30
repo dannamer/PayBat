@@ -1,4 +1,4 @@
-# Loki Stack + PostgreSQL/PgAdmin + Ansimble
+# Loki Stack + PostgreSQL/PgAdmin + Ansible
 
 ### Требования для запуска автоматизации
 Для запуска необходим установленный 'ansible', в частности 'ansible-playbook'.
