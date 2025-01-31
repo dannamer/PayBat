@@ -34,5 +34,6 @@ jobs:
 
       - name: Commit changes to main
         run: |
+          git add .
           git commit -m "Auto-update: Synced release branches to main"
           git push origin main
