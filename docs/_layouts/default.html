@@ -1,11 +1,70 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
-    {% include navigation.html %}
-    {{ content }}
+    <style>
+        .navbar {
+            position: fixed;
+            /* Фиксируем навигацию вверху */
+            top: 0;
+            left: 0;
+            width: 100%;
+            /* На всю ширину */
+            background-color: rgba(0, 0, 0, 0.9);
+            /* Темный фон с прозрачностью */
+            padding: 10px 0;
+            /* Отступы сверху и снизу */
+            z-index: 1000;
+            /* Убедимся, что навигация поверх других элементов */
+            border-bottom: 1px dashed #b5e853;
+            /* Граница снизу */
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            /* Тень для эффекта "плавающей" панели */
+        }
+
+        .navbar a {
+            color: #b5e853;
+            /* Цвет текста */
+            text-decoration: none;
+            /* Убираем подчеркивание */
+            margin: 0 15px;
+            /* Отступы между ссылками */
+            font-size: 16px;
+            /* Размер шрифта */
+            font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+            /* Шрифт */
+            text-shadow: 0 0 5px rgba(181, 232, 83, 0.5);
+            /* Тень текста */
+            transition: color 0.3s ease;
+            /* Плавное изменение цвета */
+        }
+
+        .navbar a:hover {
+            color: #63c0f5;
+            /* Цвет текста при наведении */
+            text-shadow: 0 0 10px rgba(104, 182, 255, 0.8);
+            /* Тень текста при наведении */
+        }
+
+        .navbar a:first-child {
+            margin-left: 20px;
+            /* Отступ первой ссылки слева */
+        }
+
+        .navbar a:last-child {
+            margin-right: 20px;
+            /* Отступ последней ссылки справа */
+        }
+    </style>
+    <div class="container">
+        {% include navigation.html %}
+        {{ content }}
+    </div>
 </body>
+
 </html>
