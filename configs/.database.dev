@@ -1,6 +1,0 @@
-HOST=payhui.local
-USER=admin
-PASSWORD=admin
-DATABASE=mydatabase
-PORT=5432
-URL=postgresql://admin:admin@payhui.local:5432/mydatabase
