@@ -29,6 +29,9 @@ else
   echo "Ошибка: Папка .github отсутствует в ветке main."
   exit 1
 fi
+
+git add .
+git commit -m "init branch $NEW_BRANCH"
 rm -rf *
 # Создание ветки release от новой ветки
 git checkout -b $RELEASE_BRANCH
