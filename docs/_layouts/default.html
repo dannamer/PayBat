@@ -64,9 +64,13 @@
             width: 500px;
             height: auto;
         }
+
+        .container-fix {
+            padding-top: 4vh;
+        }
     </style>
-    <div class="container">
-        {% include navigation.html %}
+    {% include navigation.html %}
+    <div class="container container-fix">
         {{ content }}
     </div>
 </body>
