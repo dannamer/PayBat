@@ -29,11 +29,10 @@ jobs:
 
       - name: Run upload-app.sh script
         run: |
-          chmod +x ./upload-app.sh
-          ./upload-app.sh
+          chmod +x ./scripts/upload-app.sh
+          ./scripts/upload-app.sh
 
       - name: Commit changes to main
         run: |
-          git add .
           git commit -m "Auto-update: Synced release branches to main"
           git push origin main

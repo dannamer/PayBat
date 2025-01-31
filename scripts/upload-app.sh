@@ -4,7 +4,7 @@ mkdir -p .tmp/saved/
 cp -r .git .tmp/saved/
 cd .tmp/saved/
 git revert --no-edit .
-git checkout main
+
 RELEASE_BRANCHES=$(git branch -r | grep -E 'origin/.*-release$' | sed 's/origin\///')
 mkdir -p ../apps/
 
